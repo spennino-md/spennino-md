@@ -3,6 +3,8 @@
 </div>
 <br />
 
+This is my github while working at MiracleDevs (company policy) If you want to check my regular work go to [my regular github](https://github.com/sebastianpennino)
+
 Hi 👋 , I'm a Software Developer from 🇦🇷 that loves 💚 to code **meaningful interfaces** 🖥
 
 I like to work on interdisciplinary teams where I can **grow 🌱 as a developer** but also as an individual
@@ -89,6 +91,9 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 <div id="useful-links">
   <a href="https://www.linkedin.com/in/spennino/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/sebastianpennino">
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="My regular github Badge"/>
   </a>
   <a href="https://miracledevs.com/">
     <img src="https://img.shields.io/badge/MiracleDevs-purple?style=for-the-badge&logo=miracledevs&logoColor=white" alt="Miracle Devs Badge"/>
