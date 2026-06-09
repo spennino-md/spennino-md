@@ -90,8 +90,8 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
   <a href="https://www.linkedin.com/in/spennino/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://humandecode.com/">
-    <img src="https://img.shields.io/badge/HumanDecode-turquoise?style=for-the-badge&logo=humandecode&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://miracledevs.com/">
+    <img src="https://img.shields.io/badge/MiracleDevs-purple?style=for-the-badge&logo=miracledevs&logoColor=white" alt="Miracle Devs Badge"/>
   </a>
   <a href="https://twitter.com/SebastianPen15">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
