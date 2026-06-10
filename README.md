@@ -5,6 +5,9 @@
 
 This is my github while working at MiracleDevs (company policy) If you want to check my regular work go to [my regular github](https://github.com/sebastianpennino)
 
+<br />
+<br />
+
 Hi 👋 , I'm a Software Developer from 🇦🇷 that loves 💚 to code **meaningful interfaces** 🖥
 
 I like to work on interdisciplinary teams where I can **grow 🌱 as a developer** but also as an individual
