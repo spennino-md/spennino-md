@@ -1,6 +1,6 @@
 Hi 👋 , I'm a Software Developer from 🇦🇷 that loves 💚 to code meaningful interfaces 🖥.
 <br />
-You found my second github account -specific for a given client (March/Oct 2026)- (is not so active anymore)
+You found my second github account -specific for a given project (March/Oct 2026)- (is not so active anymore, I just continued to use my primary account)
 <br />
 So please do check my regular work here -> [github - sebastianpennino](https://github.com/sebastianpennino)
 <br />
